@@ -5,12 +5,28 @@
 ### Atualmente trabalho na Gofox como react native developer. 
 
 <br/>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luiscarvalho2000&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-pt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarvalho2000&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Tecnologias que mais uso:
+<div style="display: inline_block">    
+    <a href="https://teusite.com" target="_blank">
+        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a><br/><br/>
+</div>
+
+
 <!--
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
 ### 🚀 Tecnologias que mais uso:
