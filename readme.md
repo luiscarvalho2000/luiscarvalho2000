@@ -13,12 +13,15 @@
 ---
 
 ### 🚀 Tecnologias que mais uso:
-<div style="display: inline_block">    
-    <a href="https://teusite.com" target="_blank">
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div style="display: inline_block">  
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img align="center" alt="ReactNative" src="https://img.shields.io/badge/ReactNative-FFFFFF?style=for-the-badge&logo=react&logoColor=007ACC" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a><br/><br/>
+    <a href="https://teusite.com" target="_blank">
+        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </a>
     <a href="https://nodejs.org/" target="_blank">
         <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
