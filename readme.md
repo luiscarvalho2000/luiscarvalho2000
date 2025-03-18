@@ -14,7 +14,7 @@
 
 ### 🚀 Tecnologias que mais uso:
 <div style="display: inline_block">  
-    <a href="https://www.typescriptlang.org/" target="_blank">
+    <a href="https://reactnative.dev/" target="_blank">
         <img align="center" alt="ReactNative" src="https://img.shields.io/badge/ReactNative-FFFFFF?style=for-the-badge&logo=react&logoColor=007ACC" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
